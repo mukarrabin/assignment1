@@ -16,13 +16,8 @@ ul {
   li a {
     display: block;
     color: black;
-    text-align: center;
-    padding: 14px 16px;
+    padding: 20px 22px;
     text-decoration: none;
-  }
-  
-  li a:hover {
-    background-color: #111;
   }
 p{
     color: dimgray;
@@ -32,6 +27,9 @@ h1{
 }
 h2{
     font-size: 40px;
+}
+h3{
+    font-size: 30px;
 }
 .highlight{
     color: orange;
@@ -104,10 +102,11 @@ body{
     height: 60%;
     width: 60%;
 }
+
 .half-width1{
     
     width: 40%;
-    float: left;
+    float:left;
     margin-left: 5%;
     padding-left: 2%;
 
